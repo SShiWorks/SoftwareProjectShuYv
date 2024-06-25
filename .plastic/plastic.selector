@@ -1,0 +1,4 @@
+repository "SoftwareProjectShuYv@ab_stu@cloud.cn"
+  path "/"
+    smartbranch "/main/Shizuka" 
+     
